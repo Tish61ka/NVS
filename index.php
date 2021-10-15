@@ -8,7 +8,7 @@ if($_SESSION['user']){
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<link rel="stylesheet" href="/acept/main.css">
+<link rel="stylesheet" href="acept\main.css">
 <title>Регистрация</title>
 </head>
 <body>

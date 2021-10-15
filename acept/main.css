@@ -11,7 +11,7 @@ form{
     display: flex;
     flex-direction: column;
     width: 25%;
-    height: 590px;
+    height: 500px;
     margin-left: 40%;
     margin-top: 13%;
     border-radius: 20%;
@@ -64,7 +64,7 @@ button:hover{
     border-radius: 3px;
 }
 p{
-    margin-left:30%;
+    margin-left:25%;
 }
 .msg{
     border: none;
